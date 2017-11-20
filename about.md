@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
+title: 个人简介
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+## 简介
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
+目前在南京一家公司担任机器学习工程师，参与开发我司推荐系统、图像检索系统和标签识别系统
+
+
+
+## 联系方式
+
+[kwin.wang@gmail.com](mailto:kwin.wang@gmail.com)
+
+
+
